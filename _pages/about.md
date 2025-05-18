@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home Webiste
+title: "Home Webiste"
 redirect_from: 
   - /about/
   - /about.html
