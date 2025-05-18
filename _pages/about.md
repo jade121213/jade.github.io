@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "主页介绍
+title: "Home Webiste
 redirect_from: 
   - /about/
   - /about.html
